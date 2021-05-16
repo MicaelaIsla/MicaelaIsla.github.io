@@ -1,6 +1,6 @@
 .banner {
    
-     background:url('../imagenes/nubes.jpg');
+     background:url('../Imagenes/nubes.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -61,7 +61,7 @@ h4 {
 
 footer {
 padding: 10px, 10px, 0, 0px;
-     background:url('../imagenes/nubes.jpg');
+     background:url('../Imagenes/nubes.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -73,7 +73,7 @@ padding: 10px, 10px, 0, 0px;
 }
 
 #boton {
-  font-family: 'Roboto Condensed', sans-serif;
+  
 
 }
 #contacto {
